@@ -1,25 +1,25 @@
 # scytale-jquery-meetup-list
 
-- create `index.html`, 
-- create `client.js`,
-- create `jquery.js`,
-- add console logs to test javascript
-    - console log for javascript loaded in and `onReady` function
-    - console log for jquery loaded
-- add inputs to html
-    - new group
-    - next date
--add `Add Meetup` button to html
-- create table in html
-    - create table headings
-        - group
-        - next meet up
-        - delete
-    - hard-code a few meetup rows
-        - value for group
-        - vlaue for date
-        - delete button
-- add hard-coded number of meetups
+- [x] create `index.html`, 
+- [x]create `client.js`,
+- [x]create `jquery.js`,
+- [x]add console logs to test javascript
+    - [x]console log for javascript loaded in and `onReady` function
+    - [x]console log for jquery loaded
+- [x]add inputs to html
+    - [x]new group
+    - [x]next date
+-[x]add `Add Meetup` button to html
+- [x]create table in html
+    - [x]create table headings
+        - [x]group
+        - [x]next meet up
+        - [x]delete
+    - [x]hard-code a few meetup rows
+        - [x]value for group
+        - [x]vlaue for date
+        - [x]delete button
+- [x]add hard-coded number of meetups
 - create variable to store total meetups starting at hard-coded number
 - check that add meetup button can be clicked
     - add button event listener (.dot or listener/handeler for a specific event) what happens when at event happens

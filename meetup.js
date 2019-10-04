@@ -10,8 +10,8 @@ function onReady() {
         console.log('I was clicked');
         let totalMeetups = $('#meetupCounter').text();
         console.log(totalMeetups);
-        totalMeetups++; 
+        totalMeetups++;
         $('#meetupCounter').text(totalMeetups);
     })
-    
+
 }
